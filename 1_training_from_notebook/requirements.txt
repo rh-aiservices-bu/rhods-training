@@ -1,8 +1,7 @@
-numpy
-pandas
-tensorflow==2.10
-matplotlib
-scikit-learn
-seaborn
-tf2onnx
-onnxruntime
+pandas==1.5.3
+matplotlib==3.7.0
+onnx==1.13.0
+onnxruntime==1.14.0
+scikit-learn==1.2.1
+seaborn==0.12.2
+tf2onnx==1.13.0
