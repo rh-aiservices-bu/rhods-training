@@ -12,10 +12,12 @@ You make a list of what you need to do and get to work:
 - Clone this git repository: [https://github.com/rh-aiservices-bu/rhods-training/tree/main/1_training_from_notebook](https://github.com/rh-aiservices-bu/rhods-training/tree/main/1_training_from_notebook).
 - Run the model training notebook (train_model.ipynb).
 - Run an inference by using the model testing notebook (test_model.py).
+
         - Specifically, try to replace Sally's (one test customer) data with Jon's (another test data) as a sanity test. Jon's data is: 
         - distance_from_last_transaction: 0.17559150228166587
         - ratio_to_median_price: 1.2942188106198573
         - used_chip: 0.0
         - used_pin_number: 0.0
         - online_order: 0.0
+
 - Clean up after yourself by removing the Data Science project! - *Yes, we will check if you did this or not*.
