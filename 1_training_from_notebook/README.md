@@ -4,7 +4,7 @@ You are working for a credit card company and are one of the few people who work
 You suddenly get an email from your boss saying that one of the models is experiencing some extreme model drift and needs to be replaced. They have already tried to retrain it themselves, but something didn't work and your colleague who is in charge of this model is up in the mountains today, so it's up to you to go and try to fix it.  
 You reach out to your colleague and through a weak signal get to hear that the model training script is saved in a GitHub repo (this one).  
 They also mention that they unfortunately are unable to share their Data Science Project and that you need to create one from scratch. They can't remember what image they used to train the model, but they do recall that a **small** image is enough.  
-Finally, they recommend to just Google the RHODS documentation, as you have not used RHODS too much yet.  
+Finally, they recommend to just Google the RHODS documentation to get a general understand of how to navigate it and how Data Science Proejcts work.  
 
 You make a list of what you need to do and get to work:
 
