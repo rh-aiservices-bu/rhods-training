@@ -25,6 +25,7 @@ You make a list of what you need to do and get to work:
   - used_pin_number: 0.0
   - online_order: 1.0
 - Make a good note of the result for Jon, as it will be a question in the last quiz
+- **Bonus**: Train the larger model and see which of them have best accuracy
 
 ## Important
 
